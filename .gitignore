@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+_internal/
+AirfoilSlicer-Portable/
+airfoil_stls/

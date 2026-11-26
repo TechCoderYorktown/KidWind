@@ -1,4 +1,4 @@
-('C:\\Users\\rhett\\Downloads\\KidWind\\build\\AirfoilSlicer\\PYZ-00.pyz',
+('C:\\Users\\rhett\\Downloads\\slicer\\KidWind\\build\\AirfoilSlicer\\PYZ-00.pyz',
  [('Cython',
    'C:\\Users\\rhett\\AppData\\Roaming\\Python\\Python313\\site-packages\\Cython\\__init__.py',
    'PYMODULE'),

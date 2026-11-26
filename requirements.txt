@@ -1,0 +1,6 @@
+numpy
+shapely>=2.0
+trimesh>=4.0
+matplotlib
+mapbox-earcut
+pyinstaller
